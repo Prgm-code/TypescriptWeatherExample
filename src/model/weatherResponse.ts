@@ -118,7 +118,9 @@ export function winDir(deg:number):(any) {
     if (deg >= 213.76 && deg <= 236.25 ){
         return 'SW';
     }
+
     if (deg >= 236.26 && deg <= 258.75 ){
+
         return 'WSW';
     }
     if (deg >= 258.76 && deg <= 281.25 ){
@@ -133,7 +135,9 @@ export function winDir(deg:number):(any) {
     if (deg >= 326.26 && deg <= 348.75 ){
         return 'NNW';
     }else{
+
         console.error('error en los datos');
+
         
     }
 
