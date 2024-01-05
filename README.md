@@ -14,7 +14,7 @@
  Se agregaron spinners en los botones de búsqueda para indicar el estado de búsqueda, se agregó un timeout para visualizar de mejor manera el spinner
  La última ciudad buscada queda almacenada en localstorage la que será consultada en caso de refrescar la pagina para obtener nuevos datos de la última ubicación encontrada
 
-    Dspliegue de aplicacion en: https://prgm-weather-app.netlify.app/
+    Dspliegue de aplicacion en: ![https://prgm-weather-app.netlify.app/](https://prgm-weather-app.netlify.app/)
                             
  ![Header](/meta/aplicacion-actualizada.png)
 
