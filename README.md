@@ -16,8 +16,7 @@
 
  Despliegue de aplicacion en:
      https://prgm-weather-app.netlify.app/
- .[Link](https://prgm-weather-app.netlify.app/)
-                            
+
  ![Header](/meta/aplicacion-actualizada.png)
 
 
